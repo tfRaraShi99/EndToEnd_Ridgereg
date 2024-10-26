@@ -1,4 +1,4 @@
-[#End-To-End ML Project Implementation of Regression Model](https://github.com/tfRaraShi99/EndToEnd_Ridgereg/blob/main/README.md)
+# **[End-To-End ML Project Implementation of Regression Model](https://github.com/tfRaraShi99/EndToEnd_Ridgereg/blob/main/README.md)**
 
 To run Flask application : **python application.py**
 
